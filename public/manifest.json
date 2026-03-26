@@ -1,5 +1,5 @@
 {
-  "name": "Study Together",
+  "name": "Quevise",
   "short_name": "Study",
   "start_url": "/",
   "display": "standalone",
@@ -16,5 +16,11 @@
       "sizes": "512x512",
       "type": "image/png"
     }
+  ],
+  "description": "This app is specifically designed for us.",
+  "dir": "auto",
+  "lang": "en",
+  "categories": [
+    "education"
   ]
 }
