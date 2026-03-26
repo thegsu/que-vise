@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quevise</string>
+    <string name="title_activity_main">Quevise</string>
+    <string name="package_name">com.que.vise</string>
+    <string name="custom_url_scheme">com.que.vise</string>
+</resources>
